@@ -64,24 +64,24 @@ skills:
         percent: 70
         icon: pen-to-square
         icon_pack: fas
-  - name: General
+  - name: Laungeage 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Writing
-        description: ''
-        percent: 70
-        icon: pen-to-square
-        icon_pack: fas
-      - name: Reading
+      - name: English
         description: ''
         percent: 90
-        icon: book-open
+        icon: earth-americas
         icon_pack: fas
-      - name: Communicating 
+      - name: Chinese
         description: ''
-        percent: 80
-        icon: people-arrows
+        percent: 100
+        icon: earth-asia
+        icon_pack: fas
+      - name: Latin 
+        description: ''
+        percent: 60
+        icon: feather
         icon_pack: fas
 
 # Social/Academic Networking
@@ -117,6 +117,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic are primarily focused on the integration of AI in healthcare, with a particular emphasis on Computer Vision. I am especially intrigued by the potential of AI in advancing medical imaging and disease detection. My current research is centered on Movement Disorders, exploring innovative AI applications in this field.
 
-ae123dsads2tygsviylasvybaoivsggyuiouabgu
 {style="text-align: justify;"}
