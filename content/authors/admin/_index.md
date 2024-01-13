@@ -117,6 +117,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic are primarily focused on the integration of AI in healthcare, with a particular emphasis on Computer Vision. I am especially intrigued by the potential of AI in advancing medical imaging and disease detection. My current research is centered on Movement Disorders, exploring innovative AI applications in this field.
+I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic interests are primarily focused on the integration of AI in healthcare, with a particular emphasis on Computer Vision. I am especially intrigued by the potential of AI in advancing medical imaging and disease detection. My current research is centered on Movement Disorders, exploring innovative AI applications in this field.
 
 {style="text-align: justify;"}
