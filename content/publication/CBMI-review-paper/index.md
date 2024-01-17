@@ -36,8 +36,8 @@ featured: true
 
 # links:
 # - name: ""
-url: "pubs.acs.org/doi/10.1021/cbmi.3c00019"
-url_pdf: pubs.acs.org/doi/epdf/10.1021/cbmi.3c00019
+# url: 
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
