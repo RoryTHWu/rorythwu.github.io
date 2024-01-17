@@ -238,7 +238,6 @@ sections:
        Please feel free to contact me if any following ways.
       # Contact (add or remove contact options as necessary)
       email: rory.wu@emory.edu
-      email: rory.t.wu@gmail.com
       phone: 470-389-5279
       appointment_url: ''
       address:
@@ -260,7 +259,7 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/RoryWu52941'
-        # - icon: video
+        # - icon: video 
         #   icon_pack: fas
         #   name: Zoom Me
         #   link: 'https://zoom.com'
