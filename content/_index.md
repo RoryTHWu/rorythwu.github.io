@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       Please feel free to contact me if any following ways.
+       Please feel free to contact me in any of the following ways.
       # Contact (add or remove contact options as necessary)
       email: rory.wu@emory.edu
       phone: 470-389-5279
@@ -252,8 +252,9 @@ sections:
         - 'Notify in advance'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '33.7970'
-        longitude: '-84.3232'  
+        latitude: '33.79309'
+        longitude: '-84.32216'  
+        
       contact_links:
         - icon: twitter
           icon_pack: fab
