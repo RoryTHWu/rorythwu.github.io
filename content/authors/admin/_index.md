@@ -25,18 +25,18 @@ organizations:
     url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic are primarily focused on the integration of AI in healthcare, with a particular emphasis on Computer Vision. I am especially intrigued by the potential of AI in advancing medical imaging and disease detection. My current research is centered on Movement Disorders, exploring innovative AI applications in this field.
+bio:  I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic interests are primarily focused on the integration of AI in healthcare, with a particular emphasis on Computer Vision. I am especially intrigued by the potential of AI in advancing medical imaging and disease detection. My current research is centered on Movement Disorders, exploring innovative AI applications in this field.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Healthcare
+  - Healthcar
 
 # Education to show in About widget
 education:
   courses:
-    - course: BS in Mathematics and Biology
+    - course: BSs in Mathematics and Biology
       institution: Emory College of Emory University
       year: 2025
     - course: AA in liberal arts
@@ -64,7 +64,7 @@ skills:
         percent: 70
         icon: pen-to-square
         icon_pack: fas
-  - name: Laungeage 
+  - name: Language 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
