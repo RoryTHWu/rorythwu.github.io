@@ -31,7 +31,8 @@ bio:  I am currently pursuing a dual major in Mathematics and Biology at Emory U
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Healthcar
+  - Healthcar #
+  
 
 # Education to show in About widget
 education:
