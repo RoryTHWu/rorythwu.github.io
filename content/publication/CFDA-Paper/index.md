@@ -1,20 +1,16 @@
 ---
-title: "Label-Free Chemically and Molecularly Selective Magnetic Resonance Imaging"
+title: "Application and REgulatory Challenges of Artificial Intelligence/Machine Learning in Clinical Trials from the Perspectives of FDA Discussion, EMA Reflection Paper, and the Stakeholders’ Comments"
 authors:
+- Lixin Yao
 - Tianhe (Rory) Wu
-- Claire Liu
-- Anbu Mozhi Thamizhchelvan
-- Candace Fleischer
-- Xingui Peng
-- Guanshu Liu
-- Hui Mao
+
 
 author_notes: ''
-date: "2023-04-12T00:00:00Z"
-doi: "https://doi.org/10.1021/cbmi.3c00019"
+date: "2024-01-08T00:00:00Z"
+doi: "https://doi.org/10.3969/j.issn.1673-5390.2024.01.008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-04-12T00:00:00Z"
+publishDate: "2024-01-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,14 +18,13 @@ publishDate: "2023-04-12T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*JChem. Biomed. Imaging"
+publication: "China Food & Drug Admission Magazine"
 publication_short: ""
 
-abstract: Drug development must comply with relevant regulatory requirements and be guided by the relevant guidances for industry developed by regulatory agencies, with reference to relevant use cases developed by regulatory agencies. The approval of a new drug must be based on evidence from clinical trials. With the continuous development of the biopharmaceutical industry, the complexity of clinical trials has increased. Relying solely on increasing investment is hard to improve clinical trial efficiency, and solving the problems of low pipeline productivity and high costs. This paper explores the application and regulation challenges of artificial intelligence/machine learning (AI/ML) in clinical trials by analyzing the viewpoints of FDA discussion paper and EMA reflection paper and stakeholders’ comments.
+abstract: Drug development must comply with relevant regulatory requirements and be guided by the relevant guidances for industry developed by regulatory agencies, with reference to relevant use cases developed by regulatory agencies. The approval of new drugs must be based on evidence generated from clinical trials. With the continuous development of the biopharmaceutical industry, the complexity of clinical trials has increased. Merely increasing investment is insufficient to improve clinical trial efficiency, and addressing issues of low pipeline productivity and soaring costs. This paper explores the application and regulation challenges of artificial intelligence/machine learning (AI/ML) in clinical trials by analyzing the viewpoints of FDA discussion paper and EMA reflection paper and stakeholders’ comments.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we reviewed the recent development of Label-Free Chemically and Molecularly Selective Magnetic Resonance Imaging. 
-
+summary: This article explores the complex landscape of AI/ML applications in clinical trials, shedding light on regulatory challenges through the lens of FDA discussions, EMA reflections, and stakeholder feedback.
 tags:
 - Source Themes
 featured: true
