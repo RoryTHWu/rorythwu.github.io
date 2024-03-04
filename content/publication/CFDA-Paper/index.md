@@ -1,5 +1,5 @@
 ---
-title: "Application and REgulatory Challenges of Artificial Intelligence/Machine Learning in Clinical Trials from the Perspectives of FDA Discussion, EMA Reflection Paper, and the Stakeholders’ Comments"
+title: "Application and Regulatory Challenges of Artificial Intelligence/Machine Learning in Clinical Trials from the Perspectives of FDA Discussion, EMA Reflection Paper, and the Stakeholders’ Comments"
 authors:
 - Lixin Yao
 - Tianhe (Rory) Wu
