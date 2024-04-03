@@ -10,7 +10,7 @@ authors:
 
 author_notes: ''
 date: "2024-04-03T00:00:00Z"
-doi: "https://doi.org/10.1021/cbmi.3c00019"
+doi: "https://doi.org/10.21037/qims-23-1471"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-12T00:00:00Z"
