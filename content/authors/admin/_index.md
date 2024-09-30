@@ -25,7 +25,7 @@ organizations:
     url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic interests are primarily focused on medical imaging. I am especially intrigued by the potential of nanoscience and AI in advancing medical imaging. 
+bio:  I am currently pursuing a dual major in Applied Mathematics and Biology at Emory University. My academic interests are primarily focused on medical imaging. I am especially intrigued by the potential of nanoscience and AI in revolutionize imaging techniques for medical diagnosis and treatment. In addition, I serve as the 2024-2025 Co-President of Emory International Pre-Health Organization. Please follow us at Instagram if you are interested. Feel free to reach out at any time!
 
 # Interests to show in About widget
 interests:
@@ -119,7 +119,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently pursuing a dual major in Mathematics and Biology at Emory University. My academic interests are primarily focused on medical imaging. I am especially intrigued by the potential of nanoscience and AI in advancing medical imaging. 
+I am currently pursuing a dual major in Applied Mathematics and Biology at Emory University. My academic interests are primarily focused on medical imaging. I am especially intrigued by the potential of nanoscience and AI in revolutionize imaging techniques for medical diagnosis and treatment. In addition, I serve as the 2024-2025 Co-President of Emory International Pre-Health Organization. Please follow us at Instagram if you are interested. Feel free to reach out at any time!
+
 
 
 {style="text-align: justify;"}
