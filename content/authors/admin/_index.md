@@ -33,6 +33,7 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Nanoscience 
+  - HealthCare
   
 
 # Education to show in About widget
